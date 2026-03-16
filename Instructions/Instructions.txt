@@ -1,0 +1,11 @@
+1) Go to https://www/youtube.com/
+2) Find the homepage of a creator you want to track
+3) In the description area, click on the '...more' link.
+4) Scroll to the bottom of the popup and click the 'Share channel' button.
+5) Click on 'Copy channel ID', this will copy the id of the channel
+6) Right click on the icon in Droptop for this app, this will offer the options.
+7) Mouse over the feed to change starting with Box1.
+8) The top box is the title, name it whatever you want, click to open, press 'ENTER' or 'ESC' key to save info.
+9) The bottom box is for the copied id, paste it into this box, click to open, press 'ENTER' or 'ESC' key to save info.
+10) Repeat steps 8 and 9 for up to 5 feeds.
+11) If everything is correct, when you open the app, you should see the latest feed for that creator.
