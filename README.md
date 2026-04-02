@@ -1,5 +1,13 @@
 <h1 align="center">
-  <picture>
+   <style>
+        @media (prefers-color-scheme: dark) {
+          img {
+            filter: invert(1);
+            background: none;
+          }
+        }
+  </style>
+  <!--picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="Images/LogoDark.png"
@@ -12,10 +20,10 @@
     alt="GitHub logo"
     src="Images/LogoLight.png"
   />
-</picture>
-  <!--br>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
-  <br-->
+</picture-->
+  <br>
+  <a href="#"><img src="Images/Logo.png" alt="LogoDark" width="200"></a>
+  <br>
   Yahoo Mail
   <br>
 </h1>
