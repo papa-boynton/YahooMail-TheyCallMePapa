@@ -1,28 +1,20 @@
 <h1 align="center">
-   <style>
-        @media (prefers-color-scheme: dark) {
-          img {
-            filter: invert(1);
-            background: none;
-          }
-        }
-  </style>
-  <!--picture>
+  <br> 
+  <!--a href="#"><img src="Images/LogoDark.png" alt="Logo" width="200"></a-->
+    <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="Images/LogoDark.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="Images/LogoLight.png"
   />
   <img
     alt="GitHub logo"
     src="Images/LogoLight.png"
+    alt="Logo"
+    width="200"
   />
-</picture-->
-  <br>
-  <a href="#"><img src="Images/Logo.png" alt="LogoDark" width="200"></a>
+    </picture>
   <br>
   Yahoo Mail
   <br>
