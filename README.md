@@ -1,6 +1,22 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <!--a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a-->
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="Images/LogoDark.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="Images/LogoLight.png"
+  />
+  <img
+    alt="GitHub logo"
+    src="Images/LogoLight.png"
+    width="80"
+    height="43"
+  />
+</picture>
   <br>
   Yahoo Mail
   <br>
