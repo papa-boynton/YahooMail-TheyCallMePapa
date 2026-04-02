@@ -1,6 +1,4 @@
 <h1 align="center">
-  <br>
-  <!--a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a-->
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -15,7 +13,9 @@
     src="Images/LogoLight.png"
   />
 </picture>
-  <br>
+  <!--br>
+  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <br-->
   Yahoo Mail
   <br>
 </h1>
