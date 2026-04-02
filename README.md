@@ -13,8 +13,6 @@
   <img
     alt="GitHub logo"
     src="Images/LogoLight.png"
-    width="80"
-    height="43"
   />
 </picture>
   <br>
