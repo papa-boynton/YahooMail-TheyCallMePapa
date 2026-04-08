@@ -23,11 +23,9 @@
 <h4 align="center">Get a notification when you have new emails on your Yahoo Mail account.</h4>
 
 <p align="center">
-<<<<<<< HEAD
   <a href="https://droptopfour.com/community-apps/?id=119"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F119&query=%24.version&label=Version&color=43ff64"></a>
-=======
   <a href="https://droptopfour.com/community-apps"><img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F119&query=%24.version&label=Version&color=43ff64"></a>
->>>>>>> 1e1123e1cd3c3bfac796939dbb9413c395dd81e6
+ 1e1123e1cd3c3bfac796939dbb9413c395dd81e6
   <a href="https://droptopfour.com"><img src="https://img.shields.io/badge/Droptop%20Four%20Website-43ff64"></a>
   <a href="https://droptopfour.com/discord"><img alt="Discord" src="https://img.shields.io/discord/800124057923485728"></a>
   <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.droptopfour.com%2Fv1%2Fcommunity-apps%2F119&query=%24.downloads'&label=Downloads&color=d8624c">
