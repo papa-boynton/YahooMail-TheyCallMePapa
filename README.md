@@ -50,7 +50,7 @@
 • Follow instructions to create a Yahoo 3rd party app password.
 
 ## Download
-[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
+[Droptop Four Community Apps](https://droptopfour.com/community-apps/?id=119)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton)
